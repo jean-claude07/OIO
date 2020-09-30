@@ -26,6 +26,7 @@ gem 'simple_form', '~> 5.0', '>= 5.0.2'
 gem 'carrierwave', '~> 2.1'
 gem 'mini_magick', '~> 4.10', '>= 4.10.1'
 gem 'table_print'
+gem 'devise'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
